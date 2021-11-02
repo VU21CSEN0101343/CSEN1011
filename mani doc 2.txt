@@ -1,0 +1,5 @@
+algorithm to find weather a number is even or odd
+1.start
+2.accept one number
+3.divide the number by 2, if the remainder is 0 it is even else it is oddstop
+4.stop
