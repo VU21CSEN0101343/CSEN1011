@@ -1,0 +1,9 @@
+Flow chart to find a number is a prime or composite
+1.Start
+2.Accept a positive integer (number greater than 2)
+3.Initialize counter with a value 2
+4. Divide the number with the counter 
+5.If the remainder is zero,display that "n"  is composite and stop the algoritim
+6.else, increment the counter and repeat from step 4 untill the counter value is less than "n"
+7.after completion of all the steps display that the number "n" is prime.
+8.End
